@@ -12,10 +12,6 @@ import streamlit as st
 import os
 import requests
 from datetime import datetime
-import locale
-
-# Définir la locale française
-locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
 
 # Fonction pour télécharger et sauvegarder les décimales de PI localement
 def telecharger_et_sauvegarder_decimales_pi():
