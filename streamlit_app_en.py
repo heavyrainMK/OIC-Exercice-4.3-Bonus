@@ -1,5 +1,5 @@
 # *******************************************************
-# Name ......... : streamlit_app.py
+# Name ......... : streamlit_app_en.py
 # Role ......... : Application to search for a birthdate in the digits of PI and mathematical demonstration
 #                  of the sum of natural numbers
 # Author ....... : Maxim Khomenko
