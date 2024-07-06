@@ -5,7 +5,7 @@
 # Author ....... : Maxim Khomenko
 # Version ...... : V1.0.0 dated 1/06/2024
 # License ...... : Developed as part of the Architecture of Machines course
-# Usage ........ : Run the script with "streamlit run streamlit_app.py" to start the application
+# Usage ........ : Run the script with "streamlit run streamlit_app_en.py" to start the application
 # *******************************************************
 
 import streamlit as st
