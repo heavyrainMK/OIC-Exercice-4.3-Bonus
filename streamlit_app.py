@@ -4,7 +4,7 @@
 #                 de la somme des nombres entiers naturels
 # Auteur ...... : Maxim Khomenko
 # Version ..... : V1.0.0 du 1/06/2024
-# Licence ..... : Réalisé dans le cadre du cours de l'Architecture des Machines
+# Licence ..... : Réalisé dans le cadre du cours d'Outils Informatiques Collaboratifs
 # Usage ....... : Exécuter le script avec "streamlit run streamlit_app.py" pour démarrer l'application
 # *******************************************************
 
