@@ -4,7 +4,7 @@
 #                  of the sum of natural numbers
 # Author ....... : Maxim Khomenko
 # Version ...... : V1.0.0 dated 1/06/2024
-# License ...... : Developed as part of the Architecture of Machines course
+# License ...... : Developed as part of the Outils Informatiques Collaboratifs course
 # Usage ........ : Run the script with "streamlit run streamlit_app_en.py" to start the application
 # *******************************************************
 
